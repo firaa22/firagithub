@@ -8,4 +8,4 @@
 4. Mulai bikin portofolio sederhana 
   *Simpan hasil praktik  (foto, catatan, atau upload ke Github)*
 5. Kurangi bandingin diri, fokus ke perkembangan sendiri
-
+6. tahun2026 waktunya berkembang
